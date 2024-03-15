@@ -16,6 +16,8 @@ To view the landing page, simply open the index.html file in a web browser. The 
 ![Screenshot 2024-03-15 172758](https://github.com/jaideep1837/naharom11/assets/137708952/b588e85d-7319-40ea-909e-221873675ea5)
 
 ![Screenshot 2024-03-15 172837](https://github.com/jaideep1837/naharom11/assets/137708952/e78b4aff-ca30-451e-81ad-db61595abbc2)
-![Screenshot (53)](https://github.com/jaideep1837/naharom11/assets/137708952/a2d262c8-cebb-4749-b2f8-c5740e6af985)
+
+<img width="893" alt="image" src="https://github.com/jaideep1837/naharom11/assets/137708952/5e747840-3909-4c4b-928b-40b6e1ac50f5">
+
 
 
